@@ -1,0 +1,29 @@
+plugin:
+  name: Section from lines
+  UUID: 1381dee0-1c38-46e6-848f-4d41cb98b60a
+  version: 1.0.0
+  developer: allplan-cz
+  default-language: CZ
+  min-allplan-version: 2026
+
+installation:
+  target-location: STD
+
+tools:
+  - id: Section_from_lines
+    pyp: Library\allplan-cz\Sections from lines.pyp
+    display-name:
+      en: Section from lines
+      de: Abschnitt aus Linien
+      cz: Sklopené řezy
+    icons:
+      small: PythonPartsActionbar\allplan-cz\Sections_from_lines_24.png
+      large: PythonPartsActionbar\allplan-cz\Sections_from_lines_128.png
+
+task-area:
+  display-name:
+    en: Section from lines
+    de: Abschnitt aus Linien
+    cz: Sklopené řezy
+  layout:
+    - Section_from_lines

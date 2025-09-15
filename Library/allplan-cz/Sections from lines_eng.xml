@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Element>
+    <StringTable>Allplan PythonParts string table</StringTable>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Multiple sections from lines</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Section depth</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Top edge of sections</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Bottom edge of sections</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Line layer</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Consider line direction</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>First section number</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Create sections</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Create</Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Create sections and delete lines</Text>
+    </Item>
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Create and delete</Text>
+    </Item>
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Instructions for use</Text>
+    </Item>
+        <Item>
+        <TextId>1050</TextId>
+                    <Text>
+1) Draw 2D lines where you need to create sections&#13;
+2) Select the layer in the plugin where the 2D lines are drawn&#13;
+3) Use the button to create sections, or create sections and delete lines&#13;
+4) Sections will be numbered sequentially, starting with the number entered in the "First section number" field&#13;
+5) The "Consider line direction" option allows you to create sections taking into account the direction of the line, otherwise they are always generated "from bottom to right"&#13;
+&#13;
+Note.&#13;
+    Sections will be created on the current file.&#13;
+    All activated files (including passive ones) will be visible in the sections.&#13;
+                    </Text>
+    </Item>
+</Element>

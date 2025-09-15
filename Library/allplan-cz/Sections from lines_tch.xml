@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Element>
+    <StringTable>Allplan PythonParts string table</StringTable>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Sklopené řezy z čar</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Hloubka řezu</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Horní hrana řezů</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Dolní hrana řezů</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Hladina čar</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Zohlednit směr čáry</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Číslo prvního řezu</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Vytvořit řezy</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Vytvoř</Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Vytvořit řezy a vymazat čáry</Text>
+    </Item>
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Vytvoř a vymaž</Text>
+    </Item>
+        <Item>
+        <TextId>1012</TextId>
+        <Text>Návod na použití</Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>
+1) Nakreslete 2D čáry v místech kde potřebujete vytvořit řezy &#13;
+2) Vyberte v pluginu hladinu, ve které jsou 2D čáry nakreslené &#13;
+3) Tlačítkem vytvořte řezy, případně vytvořte řezy a vymažte čáry &#13;
+4) Řezy budou očíslovány postupně, počínaje číslem zadaným v poli "Číslo prvního řezu" &#13;
+5) Volba "Zohlednit směr čáry" umožní vytvořit řezy s ohledem na směr čáry, jinak jsou vygenrovány vždy "zdola a zprava"&#13;
+&#13;
+Pozn.&#13;
+    Řezy budou vytvořeny v aktuální fólii.&#13;
+    V řezech budou viditelné všechny zapnuté fólie (i pasivní).&#13;
+
+        </Text>
+    </Item>
+
+</Element>
